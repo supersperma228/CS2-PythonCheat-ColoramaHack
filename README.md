@@ -1,4 +1,4 @@
-# CS2-PythonCheat-ColoramaHacl
+# CS2-PythonCheat-ColoramaHack
 
 ESP
 Line
