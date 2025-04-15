@@ -29,4 +29,4 @@ alt+tab
 
 ![12](https://github.com/user-attachments/assets/f18dde94-994f-47cb-9188-ebe65e5861c6)
 
-![1234](https://github.com/user-attachments/assets/f5ed7b1b-cc84-450d-a040-b9aabb01bc2d)
+![1234](https://github.com/user-attachments/assets/5e919b31-06c4-4aad-b474-ffd427903607)
