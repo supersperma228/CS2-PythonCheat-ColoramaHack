@@ -8,6 +8,7 @@ Box Type
 etc.
 
 AIM (BETA)
+aim teammates
 Fov
 Smooth
 Aim Key
@@ -24,10 +25,8 @@ Delete
 To Open Menu
 alt+tab
 
-there are bugs in the configs and the cheat doesn't close completely, it still remains in the background, I'll fix it soon.
+![123](https://github.com/user-attachments/assets/08f5f29e-221c-4761-b567-f95b5a07e5f6)
 
-![Screenshot_5](https://github.com/user-attachments/assets/d9b524aa-d8d2-45a0-bcf8-6ca413ac1c31)
+![12](https://github.com/user-attachments/assets/f18dde94-994f-47cb-9188-ebe65e5861c6)
 
-![Screenshot_2](https://github.com/user-attachments/assets/a8d470a4-96aa-4519-b795-e1d49d24fb3c)
-
-![Screenshot_3](https://github.com/user-attachments/assets/9dd33540-1029-43a8-9dca-3591fa328537)
+![1234](https://github.com/user-attachments/assets/f5ed7b1b-cc84-450d-a040-b9aabb01bc2d)
