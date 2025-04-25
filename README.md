@@ -7,15 +7,19 @@ Bones
 Box Type
 etc.
 
-AIM (BETA)
+AIM
 aim teammates
 Fov
 Smooth
+delay after kill
 Aim Key
 Targets
 
 Misc
 Show Fov
+bunny hop (don't work right now)
+no flash
+custom fov
 
 Config
 Save
@@ -25,8 +29,8 @@ Delete
 To Open Menu
 alt+tab
 
+version 1.0.2
+
 ![123](https://github.com/user-attachments/assets/08f5f29e-221c-4761-b567-f95b5a07e5f6)
 
 ![12](https://github.com/user-attachments/assets/f18dde94-994f-47cb-9188-ebe65e5861c6)
-
-![1234](https://github.com/user-attachments/assets/5e919b31-06c4-4aad-b474-ffd427903607)
