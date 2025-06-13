@@ -32,6 +32,8 @@ alt+tab
 
 version 1.0.3
 
+run as administrator!!!
+
 ![123](https://github.com/user-attachments/assets/08f5f29e-221c-4761-b567-f95b5a07e5f6)
 
 ![12](https://github.com/user-attachments/assets/f18dde94-994f-47cb-9188-ebe65e5861c6)
