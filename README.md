@@ -16,8 +16,9 @@ Aim Key
 Targets
 
 Misc
+theme selection
 Show Fov
-bunny hop (don't work right now)
+bunny hop
 no flash
 custom fov
 
@@ -29,7 +30,7 @@ Delete
 To Open Menu
 alt+tab
 
-version 1.0.2
+version 1.0.3
 
 ![123](https://github.com/user-attachments/assets/08f5f29e-221c-4761-b567-f95b5a07e5f6)
 
